@@ -21,20 +21,7 @@
 //    power*=a;
 //}
 // Console.WriteLine(sum);
-string[] input = Console.ReadLine().Split();
-         int  sum=0;
-      float cnt=false;
-      foreach(string s in input)
-{
-    int num = int.Parse(s);
-    if(num == 0)
 
-    {
-        if(cnt) break;
-        cnt=true;
-    }
-    else{}
-}
 
 
 
